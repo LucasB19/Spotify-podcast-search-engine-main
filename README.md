@@ -1,6 +1,6 @@
 # Spotify Podcast Search Engine Analysis
 
-This project develops a sophisticated information retrieval system designed to process and analyze metadata from Spotify podcasts. Utilizing the Natural Language Toolkit (NLTK) for natural language processing, the project aims to perform comprehensive text analysis, including tokenization, lemmatization, stemming, and sentiment analysis. Key features include the extraction of n-grams, the application of CountVectorizer for feature extraction, and the implementation of advanced text preprocessing techniques to enhance the quality of the dataset for analysis.
+This project develops a sophisticated information retrieval system designed to process and analyse metadata from Spotify podcasts. Utilising the Natural Language Toolkit (NLTK) for natural language processing, the project aims to perform comprehensive text analysis, including tokenisation, lemmatisation, stemming, and sentiment analysis. Key features include the extraction of n-grams, the application of CountVectorizer for feature extraction, and the implementation of advanced text preprocessing techniques to enhance the quality of the dataset for analysis.
 
 The project leverages machine learning models to categorize podcasts, predict listener preferences, and implement a search functionality that allows users to find podcasts based on specific queries. By analyzing podcast descriptions, names, and other metadata, the system can recommend podcasts that align closely with the user's interests.
 
@@ -10,10 +10,10 @@ The podcast metadata is available in a .tsv file format and can be downloaded by
 
 ## Key Libraries Used
 
-NLTK (Natural Language Toolkit): Used for text preprocessing, including tokenisation, stop words removal, and stemming.
-Pandas: Employed for data manipulation and analysis.
-Scikit-learn: Used for feature engineering, text vectorisation, and applying machine learning models.
-Requests & BeautifulSoup: Used for web scraping, allowing additional data collection if needed.
+- NLTK (Natural Language Toolkit): Used for text preprocessing, including tokenisation, stop words removal, and stemming.
+- Pandas: Employed for data manipulation and analysis.
+- Scikit-learn: Used for feature engineering, text vectorisation, and applying machine learning models.
+- Requests & BeautifulSoup: Used for web scraping, allowing additional data collection if needed.
 
 ## Installation
 
